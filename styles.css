@@ -20,6 +20,10 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+meta[name="viewport"] {
+    content: width=device-width, initial-scale=1;
+}
 /* ------------- navbar ------------- */
 nav {
     position: fixed;
@@ -269,7 +273,35 @@ footer a {
   font-weight: bold;
 }
 
+@media only screen and (max-width: 767px) {
+    body {
+        display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+     overflow-x: hidden;
+    }
 
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 
-
-
+    body {
+        font-size: 16px; 
+    }
+}
+@media only screen and (max-width: 767px) {
+    .hero h1,
+    .hero h3,
+    .wav h1,
+    .wav h3,
+    .rem h1,
+    .rem h3 {
+        font-size: 3.5rem; 
+    }
+    .articulo p {
+        text-align: left; 
+        font-size: 14px;
+    }
+}
