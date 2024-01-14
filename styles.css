@@ -273,13 +273,15 @@ footer a {
   font-weight: bold;
 }
 
+/* ------------ phone ----------- */
+
 @media only screen and (max-width: 767px) {
     body {
         display: flex;
-    flex-direction: column;
-    width: 100%;
-    box-sizing: border-box;
-     overflow-x: hidden;
+        flex-direction: column;
+        width: 100%;
+        box-sizing: border-box;
+        overflow-x: hidden;
     }
 
     img {
@@ -290,8 +292,7 @@ footer a {
     body {
         font-size: 16px; 
     }
-}
-@media only screen and (max-width: 767px) {
+
     .hero h1,
     .hero h3,
     .wav h1,
@@ -300,8 +301,35 @@ footer a {
     .rem h3 {
         font-size: 3.5rem; 
     }
+
     .articulo p {
         text-align: left; 
         font-size: 14px;
+    }
+
+    .wav {
+        align-items: center;
+        text-align: center;
+    }
+
+    .wav h1 {
+        font-size: 3.5rem;
+        margin-left: 0;
+        text-shadow: 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .wav h3 {
+        font-size: 1.5rem;
+        margin-left: 0;
+        text-shadow: 0.5cm rgba(0, 0, 0, 0.2);
+    }
+
+    footer {
+        position: relative;
+    }
+
+    footer a {
+        display: block;
+        margin-bottom: 10px;
     }
 }
