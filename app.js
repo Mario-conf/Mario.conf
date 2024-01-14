@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
       { image: 'https://camo.githubusercontent.com/1c31003c01aa908d827116e8f86937186a0f5cf451c62812953a72d3170036d3/68747470733a2f2f69302e77702e636f6d2f676c6173676f77677561726469616e2e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f73697465732f322f323032302f30322f53747564796772616d2e6a70673f73736c3d31', description: 'Notapp', link: 'https://mario-conf.github.io/Notapp/' },
       { image: 'https://camo.githubusercontent.com/f7a1fd09885241da58ff8e09bc52ea3f723c83767db1ee66ffb47d5eef59fe8a/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f686973746f726961732d66616b656d6f6e2f696d616765732f622f62372f506f6b2543332541396465785f47656e495f4b616e746f2e706e672f7265766973696f6e2f6c61746573743f63623d323031363032303130333333313126706174682d7072656669783d6573', description: 'Pokedex', link: 'https://mario-conf.github.io/Pokedex-lite/' },
-      { image: '', description: 'Portfolio', link: '' },
+      { image: 'https://github.com/Mario-conf/Mario.conf/raw/main/src/wallpaper.png', description: 'Portfolio', link: '' },
       { image: '', description: '', link: '' },
       { image: '', description: '', link: '' },
   ];
