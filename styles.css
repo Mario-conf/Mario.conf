@@ -275,7 +275,7 @@ footer a {
 
 /* ------------ phone ----------- */
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 888px) {
     body {
         display: flex;
         flex-direction: column;
@@ -287,10 +287,12 @@ footer a {
     img {
         max-width: 100%;
         height: auto;
+          width: 100%; 
     }
 
     body {
         font-size: 16px; 
+          width: 100%; 
     }
 
     .hero h1,
@@ -310,23 +312,17 @@ footer a {
     .wav {
         align-items: center;
         text-align: center;
+        width: 100%; 
     }
 
-    .wav h1 {
-        font-size: 3.5rem;
-        margin-left: 0;
-        text-shadow: 10px rgba(0, 0, 0, 0.2);
-    }
-
-    .wav h3 {
-        font-size: 1.5rem;
-        margin-left: 0;
-        text-shadow: 0.5cm rgba(0, 0, 0, 0.2);
+    .wav img {
+        width: 100%; 
+        height: auto;
     }
 
     footer {
         position: relative;
-         max-width: 100%;
+        width: 100%; 
     }
 
     footer a {
