@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
       { image: 'https://camo.githubusercontent.com/f7a1fd09885241da58ff8e09bc52ea3f723c83767db1ee66ffb47d5eef59fe8a/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f686973746f726961732d66616b656d6f6e2f696d616765732f622f62372f506f6b2543332541396465785f47656e495f4b616e746f2e706e672f7265766973696f6e2f6c61746573743f63623d323031363032303130333333313126706174682d7072656669783d6573', description: 'Pokedex', link: 'https://mario-conf.github.io/Pokedex-lite/' },
       { image: 'https://github.com/Mario-conf/Mario.conf/raw/main/src/wallpaper.png', description: 'Portfolio', link: 'https://mario-conf.github.io/Mario.conf/' },
       { image: 'https://camo.githubusercontent.com/37fceec588466bbebf50401e78e71e75b1ed81703d7c3fd7a21d1c4bc3ce6693/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030302f3639332f3130352f6f726967696e616c2f636172746f6f6e2d726f636b2d70617065722d73636973736f72732d766563746f722d636861726163746572732e6a7067', description: 'Rock-Paper-Scissors game', link: 'https://mario-conf.github.io/Rock-Paper-Scissors-lite/' },
-      { image: 'https://github.com/Mario-conf/App-del-Tiempo/raw/main/src/_e3eaca39-855f-42e2-9568-33fb23d5d277.jpeg?raw=true', description: 'Weather App', link: 'https://mario-conf.github.io/App-del-Tiempo/' },
+      { image: 'https://github.com/Mario-conf/App-del-Tiempo/raw/main/src/_e3eaca39-855f-42e2-9568-33fb23d5d277.jpeg?raw=true', description: 'Weather App', link: 'https://mario-conf.github.io/SkyInsight/' },
   ];
 
   const cardContainer = document.getElementById('card_container');
