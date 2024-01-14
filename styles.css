@@ -275,7 +275,7 @@ footer a {
 
 /* ------------ phone ----------- */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 900px) {
     body {
         display: flex;
         flex-direction: column;
@@ -326,6 +326,7 @@ footer a {
 
     footer {
         position: relative;
+         max-width: 100%;
     }
 
     footer a {
