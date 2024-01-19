@@ -20,10 +20,10 @@ document.addEventListener('DOMContentLoaded', function () {
       { image: 'https://github.com/Mario-conf/App-del-Tiempo/raw/main/src/_e3eaca39-855f-42e2-9568-33fb23d5d277.jpeg?raw=true', description: 'Weather App', link: 'https://mario-conf.github.io/SkyInsight/' },
 
       { image: 'https://github.com/Mario-conf/Hikify/blob/main/src/hikify_logo.png?raw=true', description: 'Hiking Website', link: 'https://mario-conf.github.io/Hikify/' },
-      { image: '', description: '', link: '' },
-      { image: '', description: '', link: '' },
-      { image: '', description: '', link: '' },
-      { image: '', description: '', link: '' },
+      //{ image: '', description: '', link: '' },
+      //{ image: '', description: '', link: '' },
+      //{ image: '', description: '', link: '' },
+      //{ image: '', description: '', link: '' },
 
   ];
 
