@@ -18,6 +18,13 @@ document.addEventListener('DOMContentLoaded', function () {
       { image: 'https://camo.githubusercontent.com/677a1dfb8b41d39b921e269fc6e2d34c4f3af5fd28ac3c7478d640c71cac6b79/68747470733a2f2f696d672e6672656570696b2e636f6d2f666f746f732d7072656d69756d2f6772616669636f2d6d65726361646f2d76616c6f7265732d7175652d6272696c6c612d696e74656e73616d656e74652d657374696c6f2d61627374726163746f2d736f6272652d666f6e646f2d636c61726f2d6772616669636f2d6573746164697374696361732d636f6d65726369616c65732d666f6e646f2d70616e74616c6c612d6675747572697374612d6772616669636f2d6d65726361646f2d62656e65666963696f2d64696e65726f2d696e76657273696f6e2d66696e616e63696572612d6d65726361646f2d76616c6f7265735f3135353830372d393032322e6a7067', description: 'Charts app', link: 'https://mario-conf.github.io/ChartCraft/' },
       { image: 'https://camo.githubusercontent.com/37fceec588466bbebf50401e78e71e75b1ed81703d7c3fd7a21d1c4bc3ce6693/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030302f3639332f3130352f6f726967696e616c2f636172746f6f6e2d726f636b2d70617065722d73636973736f72732d766563746f722d636861726163746572732e6a7067', description: 'Rock-Paper-Scissors game', link: 'https://mario-conf.github.io/Rock-Paper-Scissors-lite/' },
       { image: 'https://github.com/Mario-conf/App-del-Tiempo/raw/main/src/_e3eaca39-855f-42e2-9568-33fb23d5d277.jpeg?raw=true', description: 'Weather App', link: 'https://mario-conf.github.io/SkyInsight/' },
+
+      { image: 'https://github.com/Mario-conf/Hikify/blob/main/src/hikify_logo.png?raw=true', description: 'Hiking Website', link: 'https://mario-conf.github.io/Hikify/' },
+      { image: '', description: '', link: '' },
+      { image: '', description: '', link: '' },
+      { image: '', description: '', link: '' },
+      { image: '', description: '', link: '' },
+
   ];
 
   const cardContainer = document.getElementById('card_container');
