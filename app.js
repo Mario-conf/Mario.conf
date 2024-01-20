@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
       { image: 'https://github.com/Mario-conf/App-del-Tiempo/raw/main/src/_e3eaca39-855f-42e2-9568-33fb23d5d277.jpeg?raw=true', description: 'Weather App', link: 'https://mario-conf.github.io/SkyInsight/' },
 
       { image: 'https://github.com/Mario-conf/Hikify/blob/main/src/hikify_logo.png?raw=true', description: 'Hiking Website', link: 'https://mario-conf.github.io/Hikify/' },
-      //{ image: '', description: '', link: '' },
+      { image: 'https://camo.githubusercontent.com/ef652caefccaaf636bdacbf97b6a67a56a730683abbafa0b66e17fc3df95632f/68747470733a2f2f63646e2d696d616765732e7a6574792e636f6d2f70616765732f706c61696e5f746578745f726573756d655f6578616d706c655f74656d706c6174655f6e616e6963612e706e67', description: 'CV Generator App', link: 'https://mario-conf.github.io/Quick-CV/' },
       //{ image: '', description: '', link: '' },
       //{ image: '', description: '', link: '' },
       //{ image: '', description: '', link: '' },
