@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
       { image: 'https://github.com/Mario-conf/Hikify/blob/main/src/hikify_logo.png?raw=true', description: 'Hiking Website', link: 'https://mario-conf.github.io/Hikify/' },
       { image: 'https://camo.githubusercontent.com/ef652caefccaaf636bdacbf97b6a67a56a730683abbafa0b66e17fc3df95632f/68747470733a2f2f63646e2d696d616765732e7a6574792e636f6d2f70616765732f706c61696e5f746578745f726573756d655f6578616d706c655f74656d706c6174655f6e616e6963612e706e67', description: 'CV Generator App', link: 'https://mario-conf.github.io/Quick-CV/' },
       { image: 'https://camo.githubusercontent.com/dde4dcd16a0d7f106c090099ec959c5ecd9c64f94a71478958af8be1b528fe95/68747470733a2f2f7777772e617564696f2d746563686e6963612e636f6d2f65732d65732f6d656469612f777973697779672f706172616c6c61782f4154343034374d505f506172616c61785f30312e706e67', description: 'E-Commerce Website', link: 'https://mario-conf.github.io/SoundVFX/' },
-      //{ image: '', description: '', link: '' },
+      { image: 'https://camo.githubusercontent.com/cbee17b9fac7d5d0433855afbf3281ed99759d7a5c669335d1fd524c5f66caab/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f363037353638392e706e67', description: 'Gameflix App', link: 'https://mario-conf.github.io/Gameflix/' },
       //{ image: '', description: '', link: '' },
 
   ];
