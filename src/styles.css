@@ -1787,7 +1787,7 @@
   
     .sidebar, article { width: auto; }
   
-    article { min-height: 100%; }
+    article { min-height: auto; }
   
   
   
