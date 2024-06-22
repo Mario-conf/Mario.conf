@@ -27,7 +27,7 @@ Sigue mi viaje en el mundo del desarrollo y la creatividad. Conecta conmigo en [
 
 ## Mario.conf - Exploring the Digital World
 
----
+
 
 ![Mario.conf](/src/wallpaper.png)
 
