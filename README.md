@@ -1,6 +1,5 @@
 ## Mario.conf - Descubriendo el Mundo Digital
 
----
 
 ![Mario.conf](/src/wallpaper.png)
 
